@@ -29,6 +29,13 @@ img {
 
 }
 
+.float_right {
+    float: right;
+    padding: 50px;
+    width: 600px;
+    height: 300px;
+}
+
 #company_information {
     font-size: 140%;
 }
@@ -38,8 +45,13 @@ img {
 }
 
 aside {
-    width: 350px;
-    padding: 20px;
+    width: 150px;
+    padding: 10px;
     position: fixed;
     right: 0;
+    border: 1px solid black;
+}
+
+a {
+    color: black;
 }
