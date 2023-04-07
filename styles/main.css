@@ -18,6 +18,7 @@ footer {
     margin: 20px 20px 20px 20px;
 
     padding: 20px 20px 20px 20px;
+    text-align: left;
 }
 
 img {
@@ -54,4 +55,17 @@ aside {
 
 a {
     color: black;
+}
+
+.purchase_and_shipping_information {
+    column-count: 2;
+    column-rule: 2px solid black;
+}
+
+h2 {
+    text-align: center;
+}
+
+#signature {
+    font-family: Brush Script MT;
 }
